@@ -81,5 +81,66 @@ nextButton.addEventListener('click', () => {
 prevButton.addEventListener('click', () => {
   moveCarousel(-1);
 });
+/* Podcast Archive */
 
+const podcastEpisodes = [
+  {
+    date: "2026-08-01",
+    link: "https://drive.google.com/drive/folders/18qkBcFOTHwpdtIb731MUEw6M_fSdFLEi?usp=drive_link"
+  },
+  {
+    date: "2026-08-02",
+    link: "https://drive.google.com/drive/folders/13Dyl_xjkFklqHcxAMHbIsh4fT_nlIaQJ?usp=drive_link"
+  },
+  {
+    date: "2026-08-03",
+    link: "https://drive.google.com/drive/folders/1JxOdGP2h8YxSYEEGXIjBD4SI_iZfkvzZ?usp=drive_link"
+  },
+  {
+    date: "2026-08-04",
+    link: "https://drive.google.com/drive/folders/17OPqcY0XFJOtlKvgOOvo3BsVOBy-MwYN?usp=drive_link"
+  },
+  {
+    date: "2026-08-05",
+    link: "https://drive.google.com/drive/folders/1aGS_OZ6hGI5gFRsoaTtMjp5nJmmxIwkT?usp=drive_link"
+  },
+  {
+    date: "2026-08-06",
+    link: "https://drive.google.com/drive/folders/1VR_Iz5-f4KGFTBcGo-s3uzTtIuTtpxpH?usp=drive_link"
+  },
+  {
+    date: "2026-08-07",
+    link: "https://drive.google.com/drive/folders/1Fsdeb7u3FX3DaZELiok4BXKe79DyL4ui?usp=drive_link"
+  },
+  {
+    date: "2026-08-08",
+    link: "https://drive.google.com/drive/folders/1TRVAGLNsIY4M763tIFMdLIxBqTBXdzhf?usp=drive_link"
+  },
+  {
+    date: "2026-08-09",
+    link: "https://drive.google.com/drive/folders/1o4Y_i4m3p6VjLjWO3Ivaoa70cplz_8CK?usp=drive_link"
+  },
+  {
+    date: "2026-08-10",
+    link: "https://drive.google.com/drive/folders/1MES6FpOuMyTdPDJOSSBDUIx-ElHypzVP?usp=drive_link"
+  }
+];
 
+const podcastArchive = document.getElementById("podcastArchive");
+
+podcastEpisodes
+  .sort((a, b) => new Date(b.date) - new Date(a.date))
+  .forEach((episode) => {
+  const item = document.createElement("a");
+
+  item.className = "podcast-archive-item";
+  item.href = episode.link;
+  item.target = "_blank";
+  item.rel = "noopener noreferrer";
+
+  item.innerHTML = `
+    <span class="podcast-archive-date">📁 ${episode.date}</span>
+  `;
+
+  podcastArchive.appendChild(item);
+});
