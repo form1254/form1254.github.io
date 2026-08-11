@@ -123,6 +123,10 @@ const podcastEpisodes = [
   {
     date: "2026-08-10",
     link: "https://drive.google.com/drive/folders/1MES6FpOuMyTdPDJOSSBDUIx-ElHypzVP?usp=drive_link"
+  },
+  {
+    date: "2026-08-11",
+    link: "https://drive.google.com/drive/folders/1cUhd2R7-y2lZDdiJcwRdx_zy6oJE40Eb?usp=sharing"
   }
 ];
 
