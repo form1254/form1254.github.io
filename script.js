@@ -85,55 +85,55 @@ prevButton.addEventListener('click', () => {
 
 const podcastEpisodes = [
   {
-    date: "2026-08-01",
+    date: "Day 1 — Back to Building — 2026.08.01",
     link: "https://drive.google.com/drive/folders/18qkBcFOTHwpdtIb731MUEw6M_fSdFLEi?usp=drive_link"
   },
   {
-    date: "2026-08-02",
+    date: "Day 2 — Compressing the Distance Between Learning & Building — 2026.08.02",
     link: "https://drive.google.com/drive/folders/13Dyl_xjkFklqHcxAMHbIsh4fT_nlIaQJ?usp=drive_link"
   },
   {
-    date: "2026-08-03",
+    date: "Day 3 — Packaging the Work — 2026.08.03",
     link: "https://drive.google.com/drive/folders/1JxOdGP2h8YxSYEEGXIjBD4SI_iZfkvzZ?usp=drive_link"
   },
   {
-    date: "2026-08-04",
+    date: "Day 4 — Resetting the Environment — 2026.08.04",
     link: "https://drive.google.com/drive/folders/17OPqcY0XFJOtlKvgOOvo3BsVOBy-MwYN?usp=drive_link"
   },
   {
-    date: "2026-08-05",
+    date: "Day 5 — Building the Network — 2026.08.05",
     link: "https://drive.google.com/drive/folders/1aGS_OZ6hGI5gFRsoaTtMjp5nJmmxIwkT?usp=drive_link"
   },
   {
-    date: "2026-08-06",
+    date: "Day 6 — Speaking's a Skill, Too. — 2026.08.06",
     link: "https://drive.google.com/drive/folders/1VR_Iz5-f4KGFTBcGo-s3uzTtIuTtpxpH?usp=drive_link"
   },
   {
-    date: "2026-08-07",
+    date: "Day 7 — The Recurring Dream — 2026.08.07",
     link: "https://drive.google.com/drive/folders/1Fsdeb7u3FX3DaZELiok4BXKe79DyL4ui?usp=drive_link"
   },
   {
-    date: "2026-08-08",
+    date: "Day 8 — Defaults — 2026.08.08",
     link: "https://drive.google.com/drive/folders/1TRVAGLNsIY4M763tIFMdLIxBqTBXdzhf?usp=drive_link"
   },
   {
-    date: "2026-08-09",
+    date: "Day 9 — AI & the Orchestra of Life — 2026.08.09",
     link: "https://drive.google.com/drive/folders/1o4Y_i4m3p6VjLjWO3Ivaoa70cplz_8CK?usp=drive_link"
   },
   {
-    date: "2026-08-10",
+    date: "Day 10 — Attention & Brand — 2026.08.10",
     link: "https://drive.google.com/drive/folders/1MES6FpOuMyTdPDJOSSBDUIx-ElHypzVP?usp=drive_link"
   },
   {
-    date: "2026-08-11",
+    date: "Day 11 — Founder Principles — 2026.08.11",
     link: "https://drive.google.com/drive/folders/1cUhd2R7-y2lZDdiJcwRdx_zy6oJE40Eb?usp=sharing"
   },
   {
-    date: "2026-08-12",
+    date: "Day 12 — Implementation — 2026.08.12",
     link: "https://drive.google.com/drive/folders/1m-ATQg4sR-CgNY8reF-Pwpmh8GS5bsJJ?usp=drive_link"
   },
   {
-    date: "2026-08-13",
+    date: "Day 13 — Good Comments — 2026.08.13",
     link: "https://drive.google.com/drive/folders/1xwL6iCj3GTG1sE5so2IlfYAx7ENse6Oe?usp=drive_link"
   }
 ];

@@ -126,7 +126,7 @@ nav a:hover {
 }
 
 #hero p {
-    max-width: 750px;
+    max-width: 1100px;
     margin: auto;
     margin-bottom: 20px;
     font-size: 1.1rem;
@@ -169,7 +169,7 @@ footer {
    Responsive
 =========================== */
 
-@media (max-width: 768px) {
+@media (max-width: 1100px) {
 
     nav {
         flex-direction: column;
@@ -225,13 +225,13 @@ footer {
   opacity: 0.7;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1100px) {
   .project-card {
     flex-basis: calc(50% - 0.5rem);
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1100px) {
   .project-card {
     flex-basis: 100%;
   }
@@ -267,7 +267,7 @@ footer {
   text-decoration: underline;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1100px) {
   .podcast-list {
     grid-template-columns: 1fr;
   }
@@ -322,4 +322,20 @@ footer {
 
 .podcast-archive-date {
   font-weight: 600;
+}
+/* Contact + CV two-column layout */
+
+.cv-contact-row {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.cv-contact-row section {
+  width: 100%;
+  box-sizing: border-box;
+}
+.cv-contact-row ul {
+  list-style: none;
+  padding: 0;
 }
