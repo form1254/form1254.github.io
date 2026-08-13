@@ -127,6 +127,14 @@ const podcastEpisodes = [
   {
     date: "2026-08-11",
     link: "https://drive.google.com/drive/folders/1cUhd2R7-y2lZDdiJcwRdx_zy6oJE40Eb?usp=sharing"
+  },
+  {
+    date: "2026-08-12",
+    link: "https://drive.google.com/drive/folders/1m-ATQg4sR-CgNY8reF-Pwpmh8GS5bsJJ?usp=drive_link"
+  },
+  {
+    date: "2026-08-13",
+    link: "https://drive.google.com/drive/folders/1xwL6iCj3GTG1sE5so2IlfYAx7ENse6Oe?usp=drive_link"
   }
 ];
 
