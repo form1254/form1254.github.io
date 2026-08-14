@@ -135,7 +135,7 @@ const podcastEpisodes = [
   {
     date: "Day 13 — Good Comments — 2026.08.13",
     link: "https://drive.google.com/drive/folders/1xwL6iCj3GTG1sE5so2IlfYAx7ENse6Oe?usp=drive_link"
-  }
+  },
   {
     date: "Day 14 — Outliers & Speed — 2026.08.14",
     link: "https://drive.google.com/drive/folders/1tUgGEyVwWuHGbNQG2QkLs7ZWoumKRLxV?usp=drive_link"
