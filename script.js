@@ -139,6 +139,10 @@ const podcastEpisodes = [
   {
     date: "Day 14 — Outliers & Speed — 2026.08.14",
     link: "https://drive.google.com/drive/folders/1tUgGEyVwWuHGbNQG2QkLs7ZWoumKRLxV?usp=drive_link"
+  },
+  {
+    date: "Day 15 — Delayed Gratification — 2026.08.15",
+    link: "https://drive.google.com/drive/folders/1rCL1P0_J9r3U3OgTtL26FKlpanCufGiB?usp=drive_link"
   }
 ];
 
