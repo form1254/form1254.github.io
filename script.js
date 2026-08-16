@@ -143,6 +143,10 @@ const podcastEpisodes = [
   {
     date: "Day 15 — Delayed Gratification — 2026.08.15",
     link: "https://drive.google.com/drive/folders/1rCL1P0_J9r3U3OgTtL26FKlpanCufGiB?usp=drive_link"
+  },
+  {
+    date: "Day 16 — Consistency / Invisible Results — 2026.08.16",
+    link: "https://drive.google.com/drive/folders/1U_Lz_OoL5fE6tuI02rl_qAdSVDMMuJ3Z?usp=drive_link"
   }
 ];
 
