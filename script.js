@@ -151,6 +151,10 @@ const podcastEpisodes = [
   {
     date: "Day 17 — Worries That Never Happen — 2026.08.17",
     link: "https://drive.google.com/drive/folders/1F5jeUjUTYG_GDQpb6SHgQTHEudiYfzd2?usp=drive_link"
+  },
+  {
+    date: "Day 18 — Gratitude — 2026.08.18",
+    link: "https://drive.google.com/drive/folders/19JEiDGXXdxzbQWVhVmXQMJlwhQfWF8sA?usp=drive_link"
   }
 ];
 
