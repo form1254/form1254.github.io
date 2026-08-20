@@ -159,6 +159,10 @@ const podcastEpisodes = [
   {
     date: "Day 19 — Time & Energy — 2026.08.19",
     link: "https://drive.google.com/drive/folders/1N_S5kmtxcFN1gB6wU9MoOqarKJPNbI9H?usp=sharing"
+  },
+  {
+    date: "Day 20 — Rest — 2026.08.20",
+    link: "https://drive.google.com/drive/folders/1qjFRoscIeV5T0GFUso_6AHBD4JQOa0Vm?usp=drive_link"
   }
 ];
 
