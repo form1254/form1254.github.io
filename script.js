@@ -163,6 +163,10 @@ const podcastEpisodes = [
   {
     date: "Day 20 — Rest — 2026.08.20",
     link: "https://drive.google.com/drive/folders/1qjFRoscIeV5T0GFUso_6AHBD4JQOa0Vm?usp=drive_link"
+  },
+  {
+    date: "Day 21 — Focus — 2026.08.21",
+    link: "https://drive.google.com/drive/folders/1a_av3ghnlz3iPj-xN2-SETLOapJ55UZN?usp=sharing"
   }
 ];
 
