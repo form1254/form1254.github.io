@@ -171,6 +171,10 @@ const podcastEpisodes = [
   {
     date: "Day 22 — There Is Still Time — 2026.08.22",
     link: "https://drive.google.com/drive/folders/1cF9npgyVpeDvD9lFQMxqW9-TCEp0x3Pq?usp=sharing"
+  },
+  {
+    date: "Day 23 — You Might As Well — 2026.08.23",
+    link: "https://drive.google.com/drive/folders/1EJJm3V6ICL2Bhh1nxQ5iv9nWaJn5Ztwf?usp=drive_link"
   }
 ];
 
