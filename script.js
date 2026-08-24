@@ -175,6 +175,10 @@ const podcastEpisodes = [
   {
     date: "Day 23 — You Might As Well — 2026.08.23",
     link: "https://drive.google.com/drive/folders/1EJJm3V6ICL2Bhh1nxQ5iv9nWaJn5Ztwf?usp=drive_link"
+  },
+  {
+    date: "Day 24 — Write to Understand — 2026.08.24",
+    link: "https://drive.google.com/drive/folders/1t5-jkkGRZj3LT2hv4k96r4TjJWy6lNzF?usp=drive_link"
   }
 ];
 
