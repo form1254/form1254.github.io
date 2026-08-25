@@ -179,6 +179,10 @@ const podcastEpisodes = [
   {
     date: "Day 24 — Write to Understand — 2026.08.24",
     link: "https://drive.google.com/drive/folders/1t5-jkkGRZj3LT2hv4k96r4TjJWy6lNzF?usp=drive_link"
+  },
+  {
+    date: "Day 25 — Growth Hurts — 2026.08.25",
+    link: "https://drive.google.com/drive/folders/1gPbzBKRE5ptm2lzq_baCzByMRfJMeIV1?usp=drive_link"
   }
 ];
 
