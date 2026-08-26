@@ -183,6 +183,10 @@ const podcastEpisodes = [
   {
     date: "Day 25 — Growth Hurts — 2026.08.25",
     link: "https://drive.google.com/drive/folders/1gPbzBKRE5ptm2lzq_baCzByMRfJMeIV1?usp=drive_link"
+  },
+  {
+    date: "Day 26 — Growth Hurts — 2026.08.26",
+    link: "https://drive.google.com/drive/folders/1lwoA0qbOEVVhUDLJyHpBU0wXu4wf2Mps?usp=sharing"
   }
 ];
 
