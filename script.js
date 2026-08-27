@@ -187,6 +187,10 @@ const podcastEpisodes = [
   {
     date: "Day 26 — Less Talking, More Doing — 2026.08.26",
     link: "https://drive.google.com/drive/folders/1lwoA0qbOEVVhUDLJyHpBU0wXu4wf2Mps?usp=sharing"
+  },
+  {
+    date: "Day 27 — The First 80 — 2026.08.27",
+    link: "https://drive.google.com/drive/folders/1nksZKATCPx6swEQ1nS5matlSS6gW4UlG?usp=drive_link"
   }
 ];
 
