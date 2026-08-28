@@ -191,6 +191,10 @@ const podcastEpisodes = [
   {
     date: "Day 27 — The First 80 — 2026.08.27",
     link: "https://drive.google.com/drive/folders/1nksZKATCPx6swEQ1nS5matlSS6gW4UlG?usp=drive_link"
+  },
+  {
+    date: "Day 28 — The Way You See It — 2026.08.28",
+    link: "https://drive.google.com/drive/folders/1Y1BDCcNmLv6_UHSUgOviGz-wxCfxD-Gc?usp=drive_link"
   }
 ];
 
