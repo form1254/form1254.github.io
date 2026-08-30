@@ -197,8 +197,12 @@ const podcastEpisodes = [
     link: "https://drive.google.com/drive/folders/1Y1BDCcNmLv6_UHSUgOviGz-wxCfxD-Gc?usp=drive_link"
   },
   {
-    date: "Day 29 — The Way You See It — 2026.08.29",
+    date: "Day 29 — Where Is My Time Actually Going? — 2026.08.29",
     link: "https://drive.google.com/drive/folders/1x7vClM568unrJscTiFI6zRKqMKdOviot?usp=sharing"
+  },
+  {
+    date: "Day 30 — The Last One Standing — 2026.08.30",
+    link: "https://drive.google.com/drive/folders/12SnELNkL3GXPQDwtcYd0tpJ97TlXSG1X?usp=sharing"
   }
 ];
 
