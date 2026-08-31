@@ -203,6 +203,10 @@ const podcastEpisodes = [
   {
     date: "Day 30 — The Last One Standing — 2026.08.30",
     link: "https://drive.google.com/drive/folders/12SnELNkL3GXPQDwtcYd0tpJ97TlXSG1X?usp=sharing"
+  },
+  {
+    date: "Day 31 — Slow Down — 2026.08.31",
+    link: "https://drive.google.com/drive/folders/1CJ5p771gW8fLHD1MUtz_z6efERXntd37?usp=sharing"
   }
 ];
 
