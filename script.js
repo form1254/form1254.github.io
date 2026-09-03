@@ -207,6 +207,18 @@ const podcastEpisodes = [
   {
     date: "Day 31 — Slow Down — 2026.08.31",
     link: "https://drive.google.com/drive/folders/1CJ5p771gW8fLHD1MUtz_z6efERXntd37?usp=sharing"
+  },
+  {
+    date: "Day 32 — God's Plan — 2026.09.01",
+    link: "https://drive.google.com/drive/folders/1udslpMGlQBYx2IUIvpZFQHsztOkSZ2n_?usp=drive_link"
+  },
+  {
+    date: "Day 33 — Perspective — 2026.09.02",
+    link: "https://drive.google.com/drive/folders/1bjK5O46gjnt-UokCd2gDwaPtMVpoYXx-?usp=drive_link"
+  },
+  {
+    date: "Day 34 — Not Every Hour Needs an Outcome — 2026.09.03",
+    link: "https://drive.google.com/drive/folders/1kUDFubTs4HGbk-hwwkVgmupTs83Hx9kX?usp=drive_link"
   }
 ];
 
