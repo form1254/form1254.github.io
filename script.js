@@ -225,7 +225,12 @@ const podcastEpisodes = [
 const podcastArchive = document.getElementById("podcastArchive");
 
 podcastEpisodes
-  .sort((a, b) => new Date(b.date) - new Date(a.date))
+  .sort((a, b) => {
+  const dateA = a.date.match(/\d{4}\.\d{2}\.\d{2}/)[0].replace(/\./g, "-");
+  const dateB = b.date.match(/\d{4}\.\d{2}\.\d{2}/)[0].replace(/\./g, "-");
+
+  return new Date(dateB) - new Date(dateA);
+  })
   .forEach((episode) => {
   const item = document.createElement("a");
 
