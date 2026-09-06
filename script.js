@@ -219,6 +219,18 @@ const podcastEpisodes = [
   {
     date: "Day 34 — Not Every Hour Needs an Outcome — 2026.09.03",
     link: "https://drive.google.com/drive/folders/1kUDFubTs4HGbk-hwwkVgmupTs83Hx9kX?usp=drive_link"
+  },
+  {
+    date: "Day 35 — Give Value — 2026.09.04",
+    link: "https://drive.google.com/drive/folders/1xP91Hgl0NmJSbPD-AliA4f8WZtU2R7eQ?usp=drive_link"
+  },
+  {
+    date: "Day 36 — Persistence Can Take You Further — 2026.09.05",
+    link: "https://drive.google.com/drive/folders/1EX5eLp7wqX5-KboeKpKMUfm3y2EWrg3Y?usp=drive_link"
+  },
+  {
+    date: "Day 37 — Big Ambition Takes Time — 2026.09.06",
+    link: "https://drive.google.com/drive/folders/1sEQ-iP3Yqu4o4YGOkkFjBh8K7Wnna6MJ?usp=drive_link"
   }
 ];
 
