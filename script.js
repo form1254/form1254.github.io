@@ -231,6 +231,18 @@ const podcastEpisodes = [
   {
     date: "Day 37 — Big Ambition Takes Time — 2026.09.06",
     link: "https://drive.google.com/drive/folders/1sEQ-iP3Yqu4o4YGOkkFjBh8K7Wnna6MJ?usp=drive_link"
+  },
+  {
+    date: "Day 38 — Overthinking as a Productivity Killer — 2026.09.07",
+    link: "https://drive.google.com/drive/folders/1lozMbVdbbmC3h1zwE_BjUB2sT18SEQ2O?usp=drive_link"
+  },
+  {
+    date: "Day 39 — Time Management Is Emotional Management in Disguise — 2026.09.08",
+    link: "https://drive.google.com/drive/folders/1IXMik1upUGIGBaQMe_uDcmFk7GmXLS4A?usp=drive_link"
+  },
+  {
+    date: "Day 40 — From Overthinking to Executing with Clarity — 2026.09.09",
+    link: "https://drive.google.com/drive/folders/1LpYPKEd79VviESVfZggh3kFn7vvfO4Zy?usp=drive_link"
   }
 ];
 
