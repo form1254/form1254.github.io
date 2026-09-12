@@ -243,6 +243,18 @@ const podcastEpisodes = [
   {
     date: "Day 40 — From Overthinking to Executing with Clarity — 2026.09.09",
     link: "https://drive.google.com/drive/folders/1LpYPKEd79VviESVfZggh3kFn7vvfO4Zy?usp=drive_link"
+  },
+  {
+    date: "Day 41 — One-Touch Thinking: A Rule That Doubles Mental Bandwidth — 2026.09.10",
+    link: "https://drive.google.com/drive/folders/1gNVPpUi2MEIMGFDF0_NlpQ1LRBdFj2ZI?usp=drive_link"
+  },
+  {
+    date: "Day 42 — Why Every Ambitious Person Feels Like They’re Falling Behind — 2026.09.11",
+    link: "https://drive.google.com/drive/folders/1jYZg5rDMS6mkc1urSsQHP5V8YDeHjLNK?usp=drive_link"
+  },
+  {
+    date: "Day 43 — How to Focus Like a Seven-Figure Founder — 2026.09.12",
+    link: "https://drive.google.com/drive/folders/1b1S5rDoWnyJj-uDNohLyCpFu49umB9TD?usp=drive_link"
   }
 ];
 
