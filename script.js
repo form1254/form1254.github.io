@@ -255,6 +255,18 @@ const podcastEpisodes = [
   {
     date: "Day 43 — How to Focus Like a Seven-Figure Founder — 2026.09.12",
     link: "https://drive.google.com/drive/folders/1b1S5rDoWnyJj-uDNohLyCpFu49umB9TD?usp=drive_link"
+  },
+  {
+    date: "Day 44 — Forget Morning Routines — Try 3PM Checkpoints Instead — 2026.09.13",
+    link: "https://drive.google.com/drive/folders/1N6j2HM_w-76ztnSMCXSkJj7jegF9tpW-?usp=drive_link"
+  },
+  {
+    date: "Day 45 — The ONLY Way to Regain Focus in a World Built to Distract You — 2026.09.14",
+    link: "https://drive.google.com/drive/folders/1Us1PWwfxBUfkbCVYayCVI6Vcw3clsrfJ?usp=drive_link"
+  },
+  {
+    date: "Day 46 — How ‘One-Touch Thinking’ Can Buy Back Your Mental Bandwidth — 2026.09.15",
+    link: "https://drive.google.com/drive/folders/1GmpCfWauZqxOp0gs39q_Qn1Uohqusr35?usp=drive_link"
   }
 ];
 
