@@ -267,6 +267,18 @@ const podcastEpisodes = [
   {
     date: "Day 46 — How ‘One-Touch Thinking’ Can Buy Back Your Mental Bandwidth — 2026.09.15",
     link: "https://drive.google.com/drive/folders/1GmpCfWauZqxOp0gs39q_Qn1Uohqusr35?usp=drive_link"
+  },
+  {
+    date: "Day 47 — Why Every High Performer Should Schedule “Empty Space” — 2026.09.16",
+    link: "https://drive.google.com/drive/folders/1HymujfN8075S6hRBhPQ7Rch2NoNr_PoM?usp=drive_link"
+  },
+  {
+    date: "Day 48 — The Productivity-Consumption Trap: Consuming Instead of Creating — 2026.09.17",
+    link: "https://drive.google.com/drive/folders/1uwGiD7WEchKMOoa_HNygE1FTPHmhBlmq?usp=drive_link"
+  },
+  {
+    date: "Day 49 — How to Break Free From the New Tab Addiction Loop — 2026.09.18",
+    link: "https://drive.google.com/drive/folders/1fPjoRJCN0bbk4bBU1gsSWSVq0whbQKKw?usp=drive_link"
   }
 ];
 
