@@ -279,6 +279,10 @@ const podcastEpisodes = [
   {
     date: "Day 49 — How to Break Free From the New Tab Addiction Loop — 2026.09.18",
     link: "https://drive.google.com/drive/folders/1fPjoRJCN0bbk4bBU1gsSWSVq0whbQKKw?usp=drive_link"
+  },
+  {
+    date: "Day 50 — Decision Fatigue vs. Emotional Avoidance: Which One’s Stealing Your Energy? — 2026.09.19",
+    link: "https://drive.google.com/drive/folders/1psX-xloazr9r98OzT8fjXoXW03IhlUsx?usp=drive_link"
   }
 ];
 
