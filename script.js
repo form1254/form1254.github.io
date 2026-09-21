@@ -283,6 +283,14 @@ const podcastEpisodes = [
   {
     date: "Day 50 — Decision Fatigue vs. Emotional Avoidance: Which One’s Stealing Your Energy? — 2026.09.19",
     link: "https://drive.google.com/drive/folders/1psX-xloazr9r98OzT8fjXoXW03IhlUsx?usp=drive_link"
+  },
+  {
+    date: "Day 51 — The Truth About Decision Fatigue (It’s Not What You Think) — 2026.09.20",
+    link: "https://drive.google.com/drive/folders/10kCxiaCvVuPEHAc9uLnSo8R0P5eL8Y6h?usp=drive_link"
+  },
+  {
+    date: "Day 52 — The 3 Types of Distraction: Noise, Novelty, Narcissism — 2026.09.21",
+    link: "https://drive.google.com/drive/folders/1lRQVqexN-urL17X9tnzfWIWR4tfAklE8?usp=drive_link"
   }
 ];
 
