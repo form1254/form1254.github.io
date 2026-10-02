@@ -31,7 +31,7 @@ body {
 main {
     max-width: 1100px;
     margin: 0 auto;
-    padding: 60px 25px;
+    padding: 45px 25px 60px;
 }
 
 section {
@@ -501,7 +501,7 @@ section {
 }
 
 #hero {
-    padding: 20px 20px 10px;
+    padding: 2.8rem 20px 10px;
     margin-bottom: 20px;
 }
 
@@ -515,3 +515,23 @@ section {
         margin-bottom: 20px;
     }
 }
+
+@media (max-width: 700px) {
+    nav {
+        gap: 6px;
+        padding: 10px 15px;
+    }
+
+    nav ul {
+        gap: 8px 14px;
+    }
+}
+
+#hero {
+    padding-top: 0;
+}
+
+main {
+    padding-top: 20px;
+}
+
