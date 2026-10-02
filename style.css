@@ -339,3 +339,150 @@ footer {
   list-style: none;
   padding: 0;
 }
+
+/* ===========================
+   Technical Skills
+=========================== */
+
+#technical-skills {
+    margin-bottom: 80px;
+}
+
+.skills-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.skill-category {
+    width: 100%;
+    background: #ffffff;
+    padding: 26px 28px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, .06);
+}
+
+.skill-category h3 {
+    margin-bottom: 18px;
+    color: #0f172a;
+}
+
+.skill-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.skill-list span {
+    display: inline-block;
+    padding: 7px 12px;
+    background: #f5f7fa;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    color: #334155;
+    font-size: 0.95rem;
+    line-height: 1.4;
+}
+
+/* ===========================
+   Certifications
+=========================== */
+
+#certifications {
+    margin-bottom: 80px;
+}
+
+.certifications-list {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.certificate-category {
+    width: 100%;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, .06);
+    overflow: hidden;
+}
+
+.certificate-category summary {
+    list-style: none;
+    cursor: pointer;
+    padding: 22px 26px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #0f172a;
+
+    transition: background-color .25s ease;
+}
+
+.certificate-category summary::-webkit-details-marker {
+    display: none;
+}
+
+.certificate-category summary:hover {
+    background-color: #f8fafc;
+}
+
+.category-arrow {
+    flex-shrink: 0;
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: #2563eb;
+    transition: transform .25s ease;
+}
+
+.certificate-category[open] .category-arrow {
+    transform: rotate(90deg);
+}
+
+.certificate-items {
+    padding: 4px 26px 22px 26px;
+    border-top: 1px solid #e2e8f0;
+    text-align: left;
+}
+
+.certificate-items p {
+    margin: 0;
+    padding: 12px 0;
+    border-bottom: 1px solid #f1f5f9;
+    color: #334155;
+    text-align: left;
+}
+
+.certificate-items p:last-child {
+    border-bottom: none;
+}
+
+.certificate-items p::before {
+    content: "•";
+    margin-right: 10px;
+    color: #2563eb;
+}
+
+@media (max-width: 700px) {
+    .certificate-category summary {
+        padding: 20px;
+        font-size: 1rem;
+    }
+
+    .certificate-items {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+section {
+    scroll-margin-top: 100px;
+}
+
+section {
+    scroll-margin-top: 100px;
+}
