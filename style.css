@@ -499,3 +499,19 @@ section {
     border: 0;
     display: block;
 }
+
+@media (max-width: 700px) {
+    section {
+        scroll-margin-top: 160px;
+    }
+}
+
+@media (max-width: 700px) {
+    section {
+        scroll-margin-top: 160px;
+    }
+
+    #hero {
+        padding: 22px 20px 18px;
+    }
+}
