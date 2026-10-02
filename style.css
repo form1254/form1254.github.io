@@ -500,18 +500,18 @@ section {
     display: block;
 }
 
-@media (max-width: 700px) {
-    section {
-        scroll-margin-top: 160px;
-    }
+#hero {
+    padding: 20px 20px 10px;
+    margin-bottom: 20px;
 }
 
 @media (max-width: 700px) {
     section {
-        scroll-margin-top: 160px;
+        scroll-margin-top: 200px;
     }
 
     #hero {
-        padding: 22px 20px 18px;
+        padding: 12px 20px 8px;
+        margin-bottom: 20px;
     }
 }
